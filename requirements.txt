@@ -1,0 +1,2 @@
+bluedot
+dbus-python
