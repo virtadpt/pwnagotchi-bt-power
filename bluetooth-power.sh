@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Wrapper script that starts up the Pwnagotchi Bluetooth utility, suitable for
 # starting inside of a Screen session or something.  Must be run as the root
